@@ -1,0 +1,23 @@
+# Node modules
+frontend/node_modules/
+
+# Production build output
+frontend/dist/
+
+# Python virtual environments
+backend/.venv/
+
+# Python compiled files
+**/__pycache__/
+**/*.py[cod]
+
+# IDE and OS files
+.vscode/
+.DS_Store
+
+# Local uploads and outputs
+backend/uploads/
+backend/outputs/
+
+# Temporary files
+*.log
